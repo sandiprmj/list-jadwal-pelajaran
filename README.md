@@ -54,8 +54,9 @@ Proyek ini dibuat dengan:
 
    > Pastikan kamu sudah memasang Flutter SDK dan punya perangkat / emulator yang aktif.
    >
-<img width="1919" height="952" alt="Screenshot 2026-01-30 184029" src="https://github.com/user-attachments/assets/0478767f-7b7d-4b59-af16-598654406cc6" />
-<img width="1919" height="952" alt="Screenshot 2026-01-30 184029" src="https://github.com/user-attachments/assets/d1519054-a8d6-4dca-a941-8c1361d66754" />
-<img width="1919" height="962" alt="Screenshot 2026-01-30 184046" src="https://github.com/user-attachments/assets/d4da37e0-2a0b-4c15-b98c-f1278a79dae3" />
-<img width="1919" height="952" alt="Screenshot 2026-01-30 184219" src="https://github.com/user-attachments/assets/6a9317b4-0c18-46de-bff0-3efc03c6375c" />
+<img width="1919" height="954" alt="Screenshot 2026-01-30 184008" src="https://github.com/user-attachments/assets/0f2e0dc3-f21b-430b-90b7-aa1162a609c2" />
+<img width="1919" height="952" alt="Screenshot 2026-01-30 184029" src="https://github.com/user-attachments/assets/7031c0f0-47e4-494f-8f1f-7a4b14bb55ec" />
+<img width="1919" height="962" alt="Screenshot 2026-01-30 184046" src="https://github.com/user-attachments/assets/f4ca845a-e7aa-43bd-9121-553ea50b6455" />
+<img width="1919" height="952" alt="Screenshot 2026-01-30 184219" src="https://github.com/user-attachments/assets/3e30213a-b58e-405d-8fd2-892ac6613942" />
+
 
